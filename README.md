@@ -1,16 +1,15 @@
-# React + Vite
+👕 Koech Clothing Brand
+🚀 Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Koech Clothing Brand is a modern fashion web application built using React + Vite, designed to showcase stylish clothing collections with a fast, responsive, and user-friendly interface.
 
-Currently, two official plugins are available:
+The platform highlights products, enhances user experience, and provides a foundation for a scalable e-commerce solution.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎯 Purpose
 
-## React Compiler
+The goal of this project is to:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛍️ Present clothing products in a clean and attractive way
+⚡ Deliver fast performance using Vite
+📱 Ensure responsiveness across all devices
+🧑‍💻 Provide a scalable frontend for future e-commerce features
